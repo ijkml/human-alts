@@ -4,6 +4,11 @@
       "source": "/:path*",
       "destination": "https://ijkml.dev/:path*",
       "statusCode": 308
+    },
+    {
+      "source": "/",
+      "destination": "https://ijkml.dev",
+      "statusCode": 308
     }
   ]
 }
