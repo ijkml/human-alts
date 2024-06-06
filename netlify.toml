@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://ijkml.dev"
+  to = "https://ijkml.dev/:splat"
   status = 308
   force = true
