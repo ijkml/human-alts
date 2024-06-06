@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/(.*)",
-      "destination": "https://ijkml.dev",
+      "source": "/:path*",
+      "destination": "https://ijkml.dev/:path*",
       "statusCode": 308
     }
   ]
