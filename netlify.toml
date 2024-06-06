@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://ijkml.dev"
+  status = 308
+  force = true
